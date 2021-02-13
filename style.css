@@ -5,7 +5,12 @@ body {
   margin: 2em;
 }
 
-h1 {
+h2 {
   font-style: italic;
   color: #000000;
+}
+
+h1{
+  font-family: 'Catamaran', sans-serif;
+  color:#000000
 }
