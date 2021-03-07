@@ -7,3 +7,7 @@
     color: white;
     width: 150px;
   }
+
+  p.icon img {
+    width: 300px;
+}
