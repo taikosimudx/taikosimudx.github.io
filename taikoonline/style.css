@@ -1,7 +1,7 @@
 .but{
-    border: 1px solid green;
+    border: 1px solid rgb(0, 153, 255);
     border-radius: 5px;
-    background-color: green;
+    background-color: rgb(0, 153, 255);
     padding: 20px;
     text-align: center;
     color: white;
