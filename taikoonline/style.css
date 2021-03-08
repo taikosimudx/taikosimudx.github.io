@@ -6,6 +6,8 @@
     text-align: center;
     color: white;
     width: 150px;
+    text-align:center;
+    border-style: none;
   }
 
   p.icon img {
@@ -14,4 +16,8 @@
 
 .description{
   color: #666666; 
+}
+
+a {
+  text-decoration:none; 
 }
