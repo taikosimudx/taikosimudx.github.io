@@ -27,3 +27,16 @@ nav { text-align : center ; }
  .main{
 line-height:30px;
 }
+
+body {
+  font-family: "MS Pゴシック" ;
+  }
+
+  .homeimg{
+    width: 45px;
+  }
+
+  .site-name{
+    font-size: 150%;
+    color: black;
+  }
