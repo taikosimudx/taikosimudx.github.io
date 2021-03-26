@@ -1,0 +1,42 @@
+.but{
+    border: 1px solid rgb(0, 153, 255);
+    border-radius: 5px;
+    background-color: rgb(0, 153, 255);
+    padding: 20px;
+    text-align: center;
+    color: white;
+    width: 150px;
+    border-style: none;
+    text-align: center;
+  }
+
+  p.icon img {
+    width: 800px;
+}
+
+.description{
+  color: #666666; 
+}
+
+a {
+  text-decoration:none; 
+}
+
+nav { text-align : center ; }
+
+ .main{
+line-height:30px;
+}
+
+body {
+  font-family: "MS Pゴシック" ;
+  }
+
+  .homeimg{
+    width: 45px;
+  }
+
+  .site-name{
+    font-size: 150%;
+    color: black;
+  }
